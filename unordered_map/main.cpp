@@ -7,6 +7,7 @@ int main() {
     myMap.insert("apple", 10);
     myMap.insert("banana", 20);
     myMap.insert("grape", 30);
+    myMap.insert("hello", 90);
 
     std::cout << "HashMap contents:\n";
     myMap.print();
